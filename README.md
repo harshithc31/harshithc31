@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Chourishiya</h1>
 <h3 align="center">A passionate programmer and frontend developer from India!</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" />
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" />
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" /> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM" /> -->
 <!-- <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif](https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif)" /> -->
